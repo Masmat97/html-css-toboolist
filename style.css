@@ -2,57 +2,79 @@
     margin: auto;
     padding: 0;
     box-sizing: border-box;
+    font-style:sans-serif;
      
 }
 body{
-    background-color:rgb(245, 241, 235);
+    background-color:rgb(246, 248, 249);
     
 }
 header{
     background-color:white ;
 }
 .title{
-    font-size: 50px;
+    font-size:50px;
+}
+button{
+    border-radius: 10%;
+    padding:0.5em;
+    
 }
 .first{
-  background-color: aqua;
+  background-color:rgb(75, 173, 241);
+  color: white;
+}
+.second{
+    opacity:0.3;
+    color: grey;
 }
 main{
     margin-top: 40px;
     background-color: white;
-    line-height: 32px;
+    line-height: 40px;
     width: 70%;
+    padding-top: 20px;
+    padding-left: 50px;
 }
 hr{
     color: grey;
 }
+.paragraph{
+    font-size: 20px;
+}
 .blue{
-    background-color: blue;
-    color: white; 
-    border-radius:10%;  
+    background-color:rgb(69, 171, 234);
+    color: white;
+    border-radius:30%;  
+    padding:0.3em;
 }
 .violet{
-    background-color: violet;
+    background-color:rgb(156, 114, 228);
     color: white;
-    border-radius:10%;
+    border-radius:30%;  
+    padding:0.3em;
 }
 .green{
-    background-color:green;
+    background-color:rgb(100, 192, 169);
     color: white;
-    border-radius:10%;
+    border-radius:30%;  
+    padding:0.3em;
 }
 .orange{
-    background-color: orange;
+    background-color: rgb(242, 158, 51);
     color: white;
-    border-radius:10%;
+    border-radius:30%;  
+    padding:0.3em;
 }
 .greenyellow{
-    background-color: greenyellow;
+    background-color:rgb(176, 201, 38);
     color: white;
-    border-radius:10%;
+    border-radius:30%;  
+    padding:0.3em;
 }
 .rose{
-    background-color: rosybrown;
+    background-color:rgb(216, 99, 161);
     color:white;
-    border-radius:10%;
+    border-radius:30%;  
+    padding:0.3em;
 }
