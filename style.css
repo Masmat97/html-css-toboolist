@@ -2,10 +2,11 @@
     margin: auto;
     padding: 0;
     box-sizing: border-box;
-     background-color:gray;
+     
 }
 body{
-    background-color:gray;
+    background-color:rgb(245, 241, 235);
+    
 }
 header{
     background-color:white ;
@@ -20,7 +21,7 @@ main{
     margin-top: 40px;
     background-color: white;
     line-height: 32px;
-    
+    width: 70%;
 }
 hr{
     color: grey;
