@@ -1,34 +1,42 @@
-*{
+* {
     margin: auto;
     padding: 0;
     box-sizing: border-box;
-    font-style:sans-serif;
-     
+    font-style: sans-serif;
+
 }
-body{
-    background-color:rgb(246, 248, 249);
-    
+
+body {
+    background-color: rgb(246, 248, 249);
+
 }
-header{
-    background-color:white ;
+
+header {
+    background-color: white;
+    padding: 10px;
 }
-.title{
-    font-size:50px;
+
+.title {
+    font-size: 50px;
 }
-button{
+
+button {
     border-radius: 10%;
-    padding:0.5em;
-    
+    padding: 0.5em;
+
 }
-.first{
-  background-color:rgb(75, 173, 241);
-  color: white;
+
+.first {
+    background-color: rgb(75, 173, 241);
+    color: white;
 }
-.second{
-    opacity:0.3;
+
+.second {
+    opacity: 0.3;
     color: grey;
 }
-main{
+
+main {
     margin-top: 40px;
     background-color: white;
     line-height: 40px;
@@ -36,45 +44,53 @@ main{
     padding-top: 20px;
     padding-left: 50px;
 }
-hr{
+
+hr {
     color: grey;
 }
-.paragraph{
+
+.paragraph {
     font-size: 20px;
 }
-.blue{
-    background-color:rgb(69, 171, 234);
+
+.blue {
+    background-color: rgb(69, 171, 234);
     color: white;
-    border-radius:30%;  
-    padding:0.3em;
+    border-radius: 30%;
+    padding: 0.3em;
 }
-.violet{
-    background-color:rgb(156, 114, 228);
+
+.violet {
+    background-color: rgb(156, 114, 228);
     color: white;
-    border-radius:30%;  
-    padding:0.3em;
+    border-radius: 30%;
+    padding: 0.3em;
 }
-.green{
-    background-color:rgb(100, 192, 169);
+
+.green {
+    background-color: rgb(100, 192, 169);
     color: white;
-    border-radius:30%;  
-    padding:0.3em;
+    border-radius: 30%;
+    padding: 0.3em;
 }
-.orange{
+
+.orange {
     background-color: rgb(242, 158, 51);
     color: white;
-    border-radius:30%;  
-    padding:0.3em;
+    border-radius: 30%;
+    padding: 0.3em;
 }
-.greenyellow{
-    background-color:rgb(176, 201, 38);
+
+.greenyellow {
+    background-color: rgb(176, 201, 38);
     color: white;
-    border-radius:30%;  
-    padding:0.3em;
+    border-radius: 30%;
+    padding: 0.3em;
 }
-.rose{
-    background-color:rgb(216, 99, 161);
-    color:white;
-    border-radius:30%;  
-    padding:0.3em;
+
+.rose {
+    background-color: rgb(216, 99, 161);
+    color: white;
+    border-radius: 30%;
+    padding: 0.3em;
 }
